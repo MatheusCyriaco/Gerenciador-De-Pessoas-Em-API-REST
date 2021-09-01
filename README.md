@@ -1,5 +1,5 @@
 # Projeto
-## Construindo um sistema de controle de ponto e acesso com Spring Boot
+##Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
 * Digital Innovation One
 * Santander Bootcamp | Fullstack Developer
