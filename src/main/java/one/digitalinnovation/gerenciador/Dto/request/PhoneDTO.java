@@ -1,10 +1,10 @@
-package one.digitalinnovation.personapi.Dto.request;
+package one.digitalinnovation.gerenciador.Dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import one.digitalinnovation.personapi.enums.PhoneType;
+import one.digitalinnovation.gerenciador.enums.PhoneType;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

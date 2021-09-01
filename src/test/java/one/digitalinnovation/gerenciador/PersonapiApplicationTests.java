@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi;
+package one.digitalinnovation.gerenciador;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

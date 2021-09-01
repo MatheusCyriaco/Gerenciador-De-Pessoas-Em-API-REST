@@ -1,10 +1,10 @@
-package one.digitalinnovation.personapi.controle;
+package one.digitalinnovation.gerenciador.controle;
 
 import lombok.AllArgsConstructor;
-import one.digitalinnovation.personapi.Dto.request.PersonDTO;
-import one.digitalinnovation.personapi.Dto.response.MessageResponseDTO;
-import one.digitalinnovation.personapi.exception.PersonNotFoundException;
-import one.digitalinnovation.personapi.service.PersonService;
+import one.digitalinnovation.gerenciador.Dto.request.PersonDTO;
+import one.digitalinnovation.gerenciador.Dto.response.MessageResponseDTO;
+import one.digitalinnovation.gerenciador.exception.PersonNotFoundException;
+import one.digitalinnovation.gerenciador.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.DeleteMapping;

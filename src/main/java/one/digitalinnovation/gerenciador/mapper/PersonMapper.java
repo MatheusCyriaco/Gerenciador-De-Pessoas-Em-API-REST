@@ -1,7 +1,7 @@
-package one.digitalinnovation.personapi.mapper;
+package one.digitalinnovation.gerenciador.mapper;
 
-import one.digitalinnovation.personapi.Dto.request.PersonDTO;
-import one.digitalinnovation.personapi.entity.Person;
+import one.digitalinnovation.gerenciador.Dto.request.PersonDTO;
+import one.digitalinnovation.gerenciador.entity.Person;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
